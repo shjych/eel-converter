@@ -11,7 +11,7 @@ gevent==20.5.0
 gevent-websocket==0.10.1
 greenlet==0.4.15
 itsdangerous==1.1.0
-Jinja2==2.11.2
+Jinja2==2.11.3
 MarkupSafe==1.1.1
 pefile==2019.4.18
 pycparser==2.20
